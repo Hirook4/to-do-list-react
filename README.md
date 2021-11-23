@@ -1,4 +1,6 @@
 
+![](Print.png)
+
 Lista de Tarefas React
 Styled-Component
 
